@@ -1,5 +1,16 @@
 # CosmicOrbit 🚀
 
+<p align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/SQUADRON-LEADER/CosmicOrbit?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/SQUADRON-LEADER/CosmicOrbit?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![Built with Three.js](https://img.shields.io/badge/Built%20With-three.js-orange?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Powered%20By-Vite-purple?style=for-the-badge)
+![Made with ❤️](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red?style=for-the-badge)
+
+</p>
+
 *A captivating 3D Solar System Explorer experience*
 
 Welcome to **CosmicOrbit** — an immersive web‑application that invites you to explore our solar system in full 3D, complete with realistic planet orbits, dynamic visuals, real‑time data and a mission control‑style UI. Whether you’re a space enthusiast, a developer, a student of astrophysics, or just someone who enjoys cool browser experiences, CosmicOrbit brings the wonders of space to your screen.
@@ -127,6 +138,45 @@ MIT License
 * NASA Open Data
 * three.js community
 * Built by **Aayush**, **Ashmit**, **Panendar** — *Team CosmicOrbit*
+
+---
+
+## 📸 Screenshots
+
+> *A glimpse of the CosmicOrbit universe*
+
+![CosmicOrbit Screenshot 1](./screenshots/preview1.png)
+![CosmicOrbit Screenshot 2](./screenshots/preview2.png)
+
+> *(Place your actual screenshot images inside a `screenshots/` folder in your repo)*
+
+---
+
+## 📄 MIT License
+
+```
+MIT License
+
+Copyright (c) 2025 CosmicOrbit Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ---
 
