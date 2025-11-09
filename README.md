@@ -125,11 +125,7 @@ npm run build
 4. Push
 5. Pull request
 
----
 
-## 📜 License
-
-MIT License
 
 ---
 
