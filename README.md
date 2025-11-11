@@ -142,7 +142,6 @@ npm run build
 > *A glimpse of the CosmicOrbit universe*
 
 ![CosmicOrbit Screenshot 1](./screenshots/preview1.png)
-![CosmicOrbit Screenshot 2](./screenshots/preview2.png)
 
 > *(Place your actual screenshot images inside a `screenshots/` folder in your repo)*
 
