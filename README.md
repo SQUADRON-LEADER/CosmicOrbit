@@ -138,8 +138,7 @@ npm run build
 ---
 
 ## 📸 Screenshots
-
-> *A glimpse of the CosmicOrbit universe*
+*A glimpse of the CosmicOrbit universe*
 
 ![CosmicOrbit Screenshot 1](./screenshots/preview1.png)
 
