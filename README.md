@@ -107,13 +107,13 @@ npm run build
 
 ## 🔭 Roadmap
 
-* [ ] Asteroid & Kuiper belt
+* [ ✔️] Asteroid & Kuiper belt
 * [ ] Real‑time ephemeris data
-* [ ] VR/AR support
-* [ ] Spaceship camera mode
-* [ ] Shader improvements
-* [ ] More mobile optimization
-* [ ] Time‑lapse & eclipse events
+* [✔️ ] VR/AR support
+* [ ✔️] Spaceship camera mode
+* [✔️ ] Shader improvements
+* [ ✔️] More mobile optimization
+* [ ✔️] Time‑lapse & eclipse events
 
 ---
 
