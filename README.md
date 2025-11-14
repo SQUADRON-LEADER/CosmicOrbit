@@ -141,6 +141,7 @@ npm run build
 *A glimpse of the CosmicOrbit universe*
 
 
+<img width="1897" height="856" alt="Screenshot 2025-10-14 233426" src="https://github.com/user-attachments/assets/1d08e7a4-c3d0-4ea8-92f5-3ce6082baa2f" />
 
 
 ---
