@@ -147,6 +147,7 @@ npm run build
 
 <img width="1915" height="867" alt="Screenshot 2025-10-14 233454" src="https://github.com/user-attachments/assets/e53ada7b-9bc0-4666-b295-070fade03bda" />
 
+<img width="1909" height="857" alt="Screenshot 2025-10-14 233517" src="https://github.com/user-attachments/assets/11df3055-d484-45cd-bf0b-6f4aa45cf046" />
 
 ---
 
