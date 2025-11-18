@@ -149,6 +149,8 @@ npm run build
 
 <img width="1909" height="857" alt="Screenshot 2025-10-14 233517" src="https://github.com/user-attachments/assets/11df3055-d484-45cd-bf0b-6f4aa45cf046" />
 
+<img width="1848" height="840" alt="Screenshot 2025-10-14 233539" src="https://github.com/user-attachments/assets/1d99c9d0-eef3-4ab6-aa52-2a883a18fcb7" />
+
 ---
 
 ## 📄 MIT License
