@@ -1,14 +1,6 @@
 # CosmicOrbit 🚀
 
 <p align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/SQUADRON-LEADER/CosmicOrbit?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SQUADRON-LEADER/CosmicOrbit?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
-![Built with Three.js](https://img.shields.io/badge/Built%20With-three.js-orange?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Powered%20By-Vite-purple?style=for-the-badge)
-![Made with ❤️](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red?style=for-the-badge)
-
 </p>
 
 *A captivating 3D Solar System Explorer experience*
